@@ -3,6 +3,11 @@
 
 ---
 
+# Controls
+- Toggle GUI: Insert
+
+---
+
 # Installation
 
 - Download the release from [here](https://github.com/iiDk-the-actual/JustFog/releases/latest)
